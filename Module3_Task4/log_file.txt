@@ -1,0 +1,7 @@
+2024-03-31 08:43:27,740 - root - INFO - DATABASE: Output: База данных prompts_database.db path = prompts_database.db успешно создана
+2024-03-31 08:43:27,744 - root - INFO - DATABASE: Output: Таблица table_prompts в БД prompts_database.db успешно создана
+2024-03-31 08:43:35,712 - root - INFO - DATABASE: Execute query: SELECT user_id FROM table_prompts WHERE user_id = ? ORDER BY DATE DESC
+2024-03-31 08:43:35,713 - root - ERROR - DATABASE: Ошибка при запросе: Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2024-03-31 08:43:58,817 - root - INFO - choose_setting message ПОСЛЕ выбора = Город
+2024-03-31 08:44:00,679 - root - INFO - DATABASE: Execute query: SELECT user_id FROM table_prompts WHERE user_id = ? ORDER BY DATE DESC
+2024-03-31 08:44:00,681 - root - INFO - DATABASE: Execute query: SELECT session_id FROM table_prompts WHERE user_id =? ORDER BY DATE DESC

@@ -1,0 +1,9 @@
+2024-05-15 22:38:51,162 FILE: database.py IN: create_database MESSAGE: DATABASE: База данных создана
+2024-05-15 22:39:10,755 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, я хочу домой, user, 0, 12, 0)
+2024-05-15 22:39:32,111 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, Я очень хочу домой а ты, user, 0, 0, 1)
+2024-05-15 22:39:46,957 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, ЧТо мне делать?, user, 0, 0, 0)
+2024-05-15 22:39:48,931 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, — Бежать!, assistant, 49, 0, 0)
+2024-05-15 22:39:57,905 FILE: database.py IN: count_all_limits MESSAGE: DATABASE: У user_id=168751776 использовано 1 stt_blocks
+2024-05-15 22:39:59,128 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, Хочу срочно получить диплом яндекс практикум, user, 0, 0, 1)
+2024-05-15 22:40:01,105 FILE: database.py IN: count_all_limits MESSAGE: DATABASE: У user_id=168751776 использовано 12 tts_symbols
+2024-05-15 22:40:01,108 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, Самое главное — это не нервничать. Дыши ровно., assistant, 123, 46, 0)

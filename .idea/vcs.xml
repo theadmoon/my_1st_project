@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3m_twitch_livecode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task_4.4" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,16 @@
+2024-05-11 16:29:32,437 - root - INFO - DATABASE: Output: База данных успешно создана
+2024-05-11 16:29:32,440 - root - INFO - DATABASE: Output: Таблица users в БД успешно создана
+2024-05-11 16:30:35,409 - root - INFO - log_current_options_start = {'subject': '', 'level': ''}
+2024-05-11 16:30:40,115 - root - INFO - choose_subject message ДО выбора = математика
+2024-05-11 16:30:40,115 - root - INFO - choose_subject message ДО выбора = математика
+2024-05-11 16:30:40,115 - root - INFO -  current_options / choose_subject  = {168751776: {'subject': 'математика', 'level': ''}}
+2024-05-11 16:30:42,050 - root - INFO - choose_level message ДО выбора = простой
+2024-05-11 16:30:42,050 - root - INFO - choose_level = простой
+2024-05-11 16:30:42,051 - root - INFO -  current_options /choose level  = {168751776: {'subject': 'математика', 'level': 'простой'}}
+2024-05-11 16:30:42,051 - root - INFO - choose_level message ПОСЛЕ выбора = простой
+2024-05-11 16:30:48,785 - root - INFO - user_id / get_promt = 168751776
+2024-05-11 16:30:48,785 - root - INFO - user_request / get_promt = 2+2
+2024-05-11 16:30:48,785 - root - INFO -  ДО execute_query 168751776, математика, простой, 2+2
+2024-05-11 16:30:48,785 - root - INFO - user_id / get_promt = 168751776
+2024-05-11 16:30:48,786 - root - INFO - users_history / get_promt = {}
+2024-05-11 16:30:48,786 - root - INFO - current_options[user_id]['subject'] / get_promt = математика

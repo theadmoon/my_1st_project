@@ -1,0 +1,59 @@
+2024-02-20 18:08:51 - root - INFO - Бот запущен
+2024-02-20 18:08:51 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-02-20 18:08:52 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getMe HTTP/1.1" 200 201
+2024-02-20 18:08:52 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-02-20 18:08:53 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 678
+2024-02-20 18:08:53 - root - INFO - Отправка приветственного сообщения
+2024-02-20 18:08:53 - root - INFO - Отправка приветственного сообщения
+2024-02-20 18:08:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-02-20 18:08:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-02-20 18:08:54 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendMessage?chat_id=168751776&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D0%AF+%D0%B1%D0%BE%D1%82+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9+%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%B2.+%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D1%8C+%D0%BC%D0%BD%D0%B5+%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9+%D1%82%D0%B5%D0%BA%D1%81%D1%82%2C+%D0%B8+%D1%8F+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BC+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5+%D1%8D%D1%82%D0%BE%D0%B3%D0%BE+%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0.&reply_parameters=%7B%22message_id%22%3A+1091%7D HTTP/1.1" 200 1199
+2024-02-20 18:08:54 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendMessage?chat_id=168751776&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D0%AF+%D0%B1%D0%BE%D1%82+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9+%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%B2.+%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D1%8C+%D0%BC%D0%BD%D0%B5+%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9+%D1%82%D0%B5%D0%BA%D1%81%D1%82%2C+%D0%B8+%D1%8F+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BC+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0+%D0%BD%D0%B0+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5+%D1%8D%D1%82%D0%BE%D0%B3%D0%BE+%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0.&reply_parameters=%7B%22message_id%22%3A+1092%7D HTTP/1.1" 200 1199
+2024-02-20 18:09:09 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822276&timeout=20 HTTP/1.1" 200 365
+2024-02-20 18:09:09 - root - DEBUG - Полученный текст от пользователя: арсюха говнюха
+2024-02-20 18:09:09 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:11 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /%D0%B0%D1%80%D1%81%D1%8E%D1%85%D0%B0%20%D0%B3%D0%BE%D0%B2%D0%BD%D1%8E%D1%85%D0%B0.png HTTP/1.1" 200 None
+2024-02-20 18:09:11 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2F%D0%B0%D1%80%D1%81%D1%8E%D1%85%D0%B0+%D0%B3%D0%BE%D0%B2%D0%BD%D1%8E%D1%85%D0%B0.png HTTP/1.1" 200 596
+2024-02-20 18:09:11 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:09:16 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822277&timeout=20 HTTP/1.1" 200 316
+2024-02-20 18:09:16 - root - DEBUG - Полученный текст от пользователя: гошан
+2024-02-20 18:09:16 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:16 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:17 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /%D0%B3%D0%BE%D1%88%D0%B0%D0%BD.png HTTP/1.1" 200 None
+2024-02-20 18:09:17 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2F%D0%B3%D0%BE%D1%88%D0%B0%D0%BD.png HTTP/1.1" 200 596
+2024-02-20 18:09:17 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:09:29 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822278&timeout=20 HTTP/1.1" 200 365
+2024-02-20 18:09:29 - root - DEBUG - Полученный текст от пользователя: арсюха говнюха
+2024-02-20 18:09:29 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:30 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /%D0%B0%D1%80%D1%81%D1%8E%D1%85%D0%B0%20%D0%B3%D0%BE%D0%B2%D0%BD%D1%8E%D1%85%D0%B0.png HTTP/1.1" 200 None
+2024-02-20 18:09:30 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2F%D0%B0%D1%80%D1%81%D1%8E%D1%85%D0%B0+%D0%B3%D0%BE%D0%B2%D0%BD%D1%8E%D1%85%D0%B0.png HTTP/1.1" 200 596
+2024-02-20 18:09:30 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:09:36 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822279&timeout=20 HTTP/1.1" 200 346
+2024-02-20 18:09:36 - root - DEBUG - Полученный текст от пользователя: тимондрела
+2024-02-20 18:09:36 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:36 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:37 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /%D1%82%D0%B8%D0%BC%D0%BE%D0%BD%D0%B4%D1%80%D0%B5%D0%BB%D0%B0.png HTTP/1.1" 200 None
+2024-02-20 18:09:38 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2F%D1%82%D0%B8%D0%BC%D0%BE%D0%BD%D0%B4%D1%80%D0%B5%D0%BB%D0%B0.png HTTP/1.1" 200 603
+2024-02-20 18:09:38 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:09:42 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822280&timeout=20 HTTP/1.1" 200 322
+2024-02-20 18:09:42 - root - DEBUG - Полученный текст от пользователя: цветок
+2024-02-20 18:09:42 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:42 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:44 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA.png HTTP/1.1" 200 None
+2024-02-20 18:09:44 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2F%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA.png HTTP/1.1" 200 597
+2024-02-20 18:09:44 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:09:53 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822281&timeout=20 HTTP/1.1" 200 292
+2024-02-20 18:09:53 - root - DEBUG - Полученный текст от пользователя: flower
+2024-02-20 18:09:53 - root - INFO - Генерация изображения робота
+2024-02-20 18:09:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): robohash.org:443
+2024-02-20 18:09:55 - urllib3.connectionpool - DEBUG - https://robohash.org:443 "GET /flower.png HTTP/1.1" 200 None
+2024-02-20 18:09:55 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/sendPhoto?chat_id=168751776&photo=https%3A%2F%2Frobohash.org%2Fflower.png HTTP/1.1" 200 596
+2024-02-20 18:09:55 - root - INFO - Изображение робота успешно отправлено
+2024-02-20 18:10:13 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822282&timeout=20 HTTP/1.1" 200 23
+2024-02-20 18:10:34 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822282&timeout=20 HTTP/1.1" 200 23
+2024-02-20 18:10:54 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822282&timeout=20 HTTP/1.1" 200 23
+2024-02-20 18:11:14 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot6692081952:AAFi4pdTMmXpq-G1pCCdUwbu5Rn8il-Eeh4/getUpdates?offset=352822282&timeout=20 HTTP/1.1" 200 23
+2024-02-20 18:11:29 - TeleBot - ERROR - Infinity polling: polling exited
+2024-02-20 18:11:29 - TeleBot - ERROR - Break infinity polling

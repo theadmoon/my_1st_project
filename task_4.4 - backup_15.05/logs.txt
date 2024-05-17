@@ -1,0 +1,6 @@
+2024-05-15 16:05:24,539 FILE: database.py IN: create_database MESSAGE: DATABASE: База данных создана
+2024-05-15 16:05:34,637 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, и?, user, 0, 0, 0)
+2024-05-15 16:05:36,758 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, Юпитер — крупнейшая планета **Солнечной системы**, а я могу **ответить на многие вопросы** пользователя., assistant, 3318, 0, 0)
+2024-05-15 16:05:44,574 FILE: database.py IN: count_all_limits MESSAGE: DATABASE: У user_id=168751776 использовано 11 stt_blocks
+2024-05-15 16:05:45,859 FILE: database.py IN: add_message MESSAGE: DATABASE: INSERT INTO messages VALUES (168751776, И что делать будем, user, 0, 0, 1)
+2024-05-15 16:05:49,332 FILE: database.py IN: count_all_limits MESSAGE: DATABASE: У user_id=168751776 использовано 812 tts_symbols
